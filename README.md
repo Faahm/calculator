@@ -1,4 +1,4 @@
-# cute-calculator
+# calculator
 
 Calculator with the following features:
 - Add
